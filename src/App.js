@@ -10,8 +10,9 @@ function App() {
   return (
     <div>
       <NavBar />
-      {/* <Home />
-      <About />
+
+      <Home />
+      {/* <About />
       <Portfolio />
       <Experience />
       <Contact />
