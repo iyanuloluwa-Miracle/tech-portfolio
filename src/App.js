@@ -15,9 +15,9 @@ function App() {
       {/* <About />
       <Portfolio />
       <Experience />
-      <Contact />
+      <Contact /> */}
 
-      <SocialLink /> */}
+      <SocialLink />
     </div>
   );
 }
